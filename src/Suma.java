@@ -8,4 +8,7 @@ class Suma {
         return a+b;
     }
 
+    public static String suma(String a, String b) {
+        return a+b;
+    }
 }
